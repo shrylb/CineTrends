@@ -15,11 +15,10 @@ It allows users to explore the latest movies while also showing which titles are
 ---
 
 ##  Preview
-
+<img width="1886" height="963" alt="image" src="https://github.com/user-attachments/assets/c6043fb1-4fac-418d-a91f-30e20f77eb07" />(https://shrylb.github.io/CineTrends/)
 [**Live Demo – CineTrends**](https://shrylb.github.io/CineTrends/)  
 
-![CineTrends Preview](https://raw.githubusercontent.com/shrylb/CineTrends/gh-pages/preview.png)  
-*(Replace this screenshot with your own preview image stored in the repo)*  
+
 
 ---
 
