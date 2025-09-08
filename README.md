@@ -16,13 +16,12 @@ It allows users to explore the latest movies while also showing which titles are
 
 ##  Preview
 
-[**Live Demo – CineTrends**](https://github.com/user-attachments/assets/c6043fb1-4fac-418d-a91f-30e20f77eb07)(https://shrylb.github.io/CineTrends/)  
-
+[![CineTrends Live](https://github.com/user-attachments/assets/c6043fb1-4fac-418d-a91f-30e20f77eb07)](https://shrylb.github.io/CineTrends/)
 
 ---
 
 ## 🛠 Tech Stack
-- **React 19 + Vite**
+- **React + Vite**
 - **Tailwind CSS**
 - **Supabase** (for tracking trending searches)
 - **TMDB API** (for movie data)
