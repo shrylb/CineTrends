@@ -6,7 +6,7 @@ const MovieCard = (movie) => {
      <div className="movie-card">
       {/* <p className="text-white">{movie.title}</p> */}
       <img
-        src={movie.poster_path ? `https://image.tmdb.org/t/p/w500${movie.poster_path}` : '/no-movie.png'}
+        src={movie.poster_path ? `https://image.tmdb.org/t/p/w500${movie.poster_path}` : 'no-movie.png'}
         alt={movie.title}
       />
 
