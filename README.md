@@ -1,12 +1,33 @@
-# React + Vite
+# 🎬 CineTrends
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+CineTrends is a React-based web app that fetches popular movies from the [TMDB API](https://www.themoviedb.org/documentation/api) and tracks trending searches using [Supabase](https://supabase.com/) as the backend.  
+It allows users to explore the latest movies while also showing which titles are most searched within the app.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##  Features
+- Fetches **popular movies** directly from TMDB  
+- **Search functionality** to quickly find movies  
+- **Trending movies section** powered by Supabase (tracks user searches and counts)  
+- Responsive UI built with **Tailwind CSS**  
+- Simple and fast setup with **Vite**  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+##  Preview
+
+[**Live Demo – CineTrends**](https://shrylb.github.io/CineTrends/)  
+
+![CineTrends Preview](https://raw.githubusercontent.com/shrylb/CineTrends/gh-pages/preview.png)  
+*(Replace this screenshot with your own preview image stored in the repo)*  
+
+---
+
+## 🛠 Tech Stack
+- **React 19 + Vite**
+- **Tailwind CSS**
+- **Supabase** (for tracking trending searches)
+- **TMDB API** (for movie data)
+- **GitHub Pages** (deployment)
+
+---
