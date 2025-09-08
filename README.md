@@ -17,6 +17,7 @@ It allows users to explore the latest movies while also showing which titles are
 ##  Preview
 
 [![CineTrends Live](https://github.com/user-attachments/assets/c6043fb1-4fac-418d-a91f-30e20f77eb07)](https://shrylb.github.io/CineTrends/)
+**Click to View Live Page**
 
 ---
 
